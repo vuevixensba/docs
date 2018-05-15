@@ -1,60 +1,62 @@
-# About Vue Vixens Workshops
+# Acerca de los Workshops de Vue Vixens
 
-Vue Vixens is an initiative created by Jen Looper, a Senior Developer Advocate at [Progress](http://www.progress.com), creators of NativeScript, Kendo UI, Open Edge, and more. Vue Vixens' mission is to create workshops to teach Vue.js in a cool and fun way to 'foxy people who identify as women'. It is based on the successful model pioneered by Shmuela Jacobs for the Angular community, [http://www.ng-girls.org](ng-girls.org). Ng-Girls was in turn inspired by the Rails Bridge and Django Girls initiatives.
+Vue Vixens es una iniciativa creada por Jen Looper, Senior Developer Advocate en [Progress] (http://www.progress.com), creadores de NativeScript, Kendo UI, Open Edge y más. La misión de Vue Vixens es crear talleres para enseñar Vue.js de una manera fresca y divertida a 'personas copadas que se identifican como mujeres'. Se basa en el exitoso modelo iniciado por Shmuela Jacobs para la comunidad angular, [http://www.ng-girls.org] (ng-girls.org). Ng-Girls a su vez se inspiró en las iniciativas de Rails Bridge y Django Girls.
 
-::: tip Not just workshops!
-We do more than full day workshops! We also can help with your conference's diversity offerings - just contact us at [info@vuevixens.org](mailto:info@vuevixens.org).
+::: tip ¡No somos solo workshops!
+¡Hacemos mucho más que solo workshops! También podemos ayudar con temas de diversidad, entre otros. Simplemente contáctenos a [info@vuevixens.org] (mailto: info@vuevixens.org) | (Argentina)[vuevixensba@gmail.com] (mailto: vuevixensba@gmail.com).
 :::
 
-These workshops are designed to help people get better acquainted with both Vue.js and NativeScript-Vue, an implementation of Vue.js that lets developers write native mobile apps using Vue. 3/4 of a standard workshop day is spent on the web, and 1/4 on mobile. Below is an interview with Jen and Evan You, creator of Vue, and Igor Randjelovic, creator of NativeScript-Vue, giving the background and history of the projects. 
+Estos workshops están diseñados para ayudar a las personas a familiarizarse mejor con Vue.js y NativeScript-Vue, una implementación de Vue.js que permite desarrollar aplicaciones móviles nativas utilizando Vue. 3/4 de un día de workshop estándar se toma en web y 1/4 en mobile. A continuación hay una entrevista con Jen y Evan You, creador de Vue, e Igor Randjelovic, creador de NativeScript-Vue, sobre los antecedentes y la historia de los proyectos. (Video en Ingles)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jFsmrudIFmI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-- - -
-
-## FAQ
-
-**What's the difference between a Chapter and a 'Mini'?** 
-
-These chapters are presented as two distinct types. The first five chapters comprise the full-day workshop. Other chapters are listed as 'mini-workshops' and can be done ad hoc with groups for breakfasts, lunch'n'learn sessions, or meetups. We are adding to this content progressively. 
-
-**Why are the chapters broken up into parts?**
-
-All the online codelabs are designed to be completed in groups in a self-study mode in a workshop format during meetups, conferences, and brown-bag lunches. For the all-day workshops, it is best to break up the day into parts and regroup users periodically so that 'no developer is left behind'. If an attendee gets lost, she can 'reboot' by downloading the ending point for each previous chapter into a new Code Sandbox. 
-
-**Where can I register for a skulk?**
-
-Workshop attendees and mentors can register for events at [http://www.vuevixens.org](vuevixens.org). Keep an eye on our Twitter feed @vuevixens for announcements of upcoming events. Vue Vixens workshops are free, but depend on budget from conferences and meetups to provide lunch, breakfast, or snacks, and a space with wifi.
-
-**I'm a guy. Can I participate?**
-
-The goal of the program is to familiarize women and those who identify as such with concepts of programming for web and mobile using Vue.js in a supportive and inclusive environment. Experienced Vue developers, however, are very welcome to join in our efforts to organize events, support our scholarship fund, mentor a skulk, and provide content. We are grateful for all kinds of help!
-
-![](./images/inaugural_skulk.jpg)
-
-> The inaugural Vue Vixens Skulk at Vue.US Conference in New Orleans in March, 2018
-
-
-## Workshop Content
-
-
-- Chapter 1: Introducing The Pet Shop’s UI – turn on the lights!
-  - Using CSS and variables, enable a switch on a web page that will turn on your shop’s lights (e.g. switch the page’s theme). Very basic introduction to our project’s code structure
-- Chapter 2: Build a Pet Gallery 
-  - Using static data, create an interface to display the pet by image and name in a card interface
-- Chapter 3: Connect to an API
-  - Swap out your static interface with a connection to the Dog CEO API: [https://dog.ceo/dog-api/](https://dog.ceo/dog-api/)
-- Chapter 4: Create a Dog Adoption Experience
-  - Create a 'favorites list' for the shop so that you can add and remove a dog from your list
-- Chapter 5: Complete the Experience with a Form
-  - Create a functional form to adopt a dog
-- Chapter 6: Mobilize me 
-  - Now that you’ve adopted a dog, display his/her stats in a Vue.js-powered mobile app and use the Social Share plugin to tell your friends about him/her. This app will be built in the NativeScript Playground
+<iframe width = "560" height = "315" src = "https://www.youtube.com/embed/jFsmrudIFmI" frameborder = "0" allow = "autoplay; encrypted-media" allowfullscreen> </ iframe>
 
 - - -
 
-### Thank You to Our Contributors!
+## PREGUNTAS FRECUENTES
 
-[<img alt="NataliaTepluhina" src="https://avatars0.githubusercontent.com/u/18719025?v=4&s=117" width="117">](https://github.com/NataliaTepluhina) |[<img alt="jlooper" src="https://avatars2.githubusercontent.com/u/1450004?v=4&s=117" width="117">](https://github.com/jlooper) |
-:---: |:---: |
-[Natalia Tepluhina](https://github.com/NataliaTepluhina) |[Jen Looper](https://github.com/jlooper) 
+** ¿Cuál es la diferencia entre un capítulo y un 'Mini'? **
+
+Estos capítulos se presentan como dos tipos distintos. Los primeros cinco capítulos comprenden el workshop de un día entero. Otros capítulos se enumeran como "mini-talleres" y se pueden hacer ad hoc con grupos para desayunos, almuerzos, sesiones de aprendizaje o reuniones. Estamos agregando a este contenido progresivamente.
+
+** ¿Por qué los capítulos se dividen en partes? **
+
+Todos los codelabs en línea están diseñados para completarse en grupos en un modo de autoaprendizaje en un formato de taller durante las reuniones, conferencias y eventos cortos. Para los talleres de todo el día, es mejor dividir el día en partes y reagrupar a lxs usuarixs periódicamente para que "ningúnx desarrolladorx se quede atrás". Si un asistente se pierde, puede 'reiniciar' descargando el punto final de cada capítulo anterior en un nuevo Sandbox de código.
+
+** ¿Dónde puedo registrarme para un skulk? **
+
+Lxs asistentes al taller y mentores pueden registrarse para eventos en [http://www.vuevixens.org] (vuevixens.org) y en Argentina [http://ar.vuevixens.org] (ar.vuevixens.org). Esté atentx a nuestro feed de Twitter @vuevixens | @vuevixensBA para anuncios de próximos eventos. Los Workshops de Vue Vixens son gratuitos, pero dependen del presupuesto de las conferencias y reuniones para proporcionar almuerzo, desayuno o refrigerios, y un espacio con wifi.
+
+**Soy hombre. ¿Puedo participar? **
+
+El objetivo del programa es familiarizar a las mujeres y aquellxs que se identifican como tales con los conceptos de programación para web y mbile usando Vue.js en un entorno de apoyo inclusivo. Lxs desarrolladorxs experimentadxs en Vue, sin embargo, son bienvenidxs a unirse a nuestros esfuerzos para organizar eventos, apoyar nuestro fondo de becas, ser mentorxs y proporcionar contenido. Agradecemos todo tipo de contribucion!
+
+! [] (./ images / inaugural_skulk.jpg)
+
+> La conferencia inaugural Vue Vixens Skulk at Vue.US en Nueva Orleans en marzo de 2018
+
+
+## Contenido del workshop
+
+
+- Capítulo 1: Presentación de la interfaz de usuario de The Pet Shop: ¡enciende las luces!
+  - Usando CSS y variables, habilitar y cambiar themes. Introducción muy básica a la estructura de código de nuestro proyecto
+- Capítulo 2: crear una galería de mascotas
+  - Usando datos estáticos, crear una interfaz para mostrar la mascota por imagen y nombre.
+- Capítulo 3: Conectar a una API
+  - Cambiar su interfaz estática con una conexión a la API Dog CEO: [https://dog.ceo/dog-api/](https://dog.ceo/dog-api/)
+- Capítulo 4: Crear una experiencia de adopción de perros
+  - Crear una "lista de favoritos" para la tienda para que pueda agregar y quitar un perro de su lista
+- Capítulo 5: Complete la experiencia con un formulario
+  - Crear un formulario funcional para adoptar un perro
+- Capítulo 6: Mobilize Me!
+  - Ahora que has adoptado un perro, muestra tus estadísticas en una aplicación móvil con Vue.js y usa el complemento Social Share para contarles a tus amigos. Esta aplicación se compilará en NativeScript Playground
+
+- - -
+
+### ¡Gracias a nuestrxs colaboradores!
+
+[<img alt = "NataliaTepluhina" src = "https://avatars0.githubusercontent.com/u/18719025?v=4&s=117" width = "117">] (https://github.com/NataliaTepluhina) | [<img alt = "jlooper" src = "https://avatars2.githubusercontent.com/u/1450004?v=4&s=117" width = "117">] (https://github.com/jlooper) |
+: ---: |: ---: |
+[Natalia Tepluhina] (https://github.com/NataliaTepluhina) | [Jen Looper] (https://github.com/jlooper)
+
+Traduccion por [SuperDiana] (https://github.com/alphacentauri82)
